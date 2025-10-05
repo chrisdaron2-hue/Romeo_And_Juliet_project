@@ -1,19 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-
-2 of 9,277
-Markdown language README.md
-Inbox
-
-Elizabeth Gyamfi <chrisdaron2@gmail.com>
-Attachments
-6:15 PM (13 minutes ago)
-to me
-
- 2 Attachments
-  •  Scanned by Gmail
 
 # Python Calculator
 ===========================
@@ -58,7 +42,7 @@ The program supports the following operators:
   
 ### 👤 Author
 
-- **Elizabeth Gyamfi** - [GitHub Profile]((https://github.com/abhisakh)
+- **Elizabeth Gyamfi** -
 ```text
 ========================================================================
 ```
